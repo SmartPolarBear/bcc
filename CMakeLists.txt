@@ -7,3 +7,4 @@ add_executable(bcc main.cpp)
 
 add_subdirectory(bcc)
 add_subdirectory(lexer)
+add_subdirectory(parser)
